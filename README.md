@@ -9,3 +9,4 @@ I am a Data Science enthusiast, interested in learning new technologies💡 and 
 </p>
 
 [I am just and email away 👉](rkotiyal7@gmail.com)
+For enquiries, reach out rkotiyal7@gmail.com
