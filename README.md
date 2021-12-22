@@ -1,4 +1,4 @@
-# ![Rishita Kotiyal header](https://github.com/rishita27/RishitaKotiyal/blob/1eec893c302b1656ec652e6fc81e1e3b9599b31e/Intro.png)
+# ![Rishita Kotiyal header](https://github.com/rishita27/rishita27/blob/46f1a93a46d1d0d702713823726dacc61e580f83/GitIntro.png)
 👋
 Welcome to my ❤ GitHub profile
 <!-- Actual text -->
