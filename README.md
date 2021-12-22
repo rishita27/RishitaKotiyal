@@ -1,2 +1,2 @@
 # Rishita Kotiyal
-header hosted with ❤ by GitHub
+Welcome to my ❤ GitHub profile
