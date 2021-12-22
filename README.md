@@ -1,3 +1,3 @@
 # Rishita Kotiyal
-# Hi ! 👋
-# Welcome to my ❤ GitHub profile
+# Hello, folks! 👋
+Welcome to my ❤ GitHub profile
