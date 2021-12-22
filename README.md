@@ -1,5 +1,5 @@
 # ![Rishita Kotiyal header](https://github.com/rishita27/rishita27/blob/46f1a93a46d1d0d702713823726dacc61e580f83/GitIntro.png)
-👋
+Here you might be able to find some cool stuff👋
 <!-- Actual text -->
 
 You can find me on 👉 <a href="https://www.linkedin.com/in/rishita-kotiyal/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
